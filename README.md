@@ -14,7 +14,5 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 
 ### Day 2: Tokenization & Preprocessing
 
-- Implemented a **simple tokenizer** from scratch → [Tokenizer.ipynb](1_Tokenizer/Tokenizer.ipynb)
-- Added **special character tokens**
+- Implemented a **simple tokenizer** from scratch & Added **special character tokens** → [Tokenizer.ipynb](1_Tokenizer/Tokenizer.ipynb)
 - Implemented **Byte Pair Encoding (BPE)** using `tiktoken` → [Bytepairencoding.ipynb](1_Tokenizer/Bytepairencoding.ipynb)
-- Used sample text data → [verdictbook.txt](1_Tokenizer/verdictbook.txt)
