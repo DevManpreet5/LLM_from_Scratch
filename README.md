@@ -1,4 +1,20 @@
-# LLM_from_Scrath
+# LLM_from_Scratch 🚀
 
-day 1- basics of LLM , revised RNN LSTM , started reading "Attention is all u need" and "gpt 3 paper - language models are few shot learners"
-day 2- made simple tokenizer from scrath , added special character tokens
+This repository documents my journey of building a **Large Language Model (LLM) from scratch**
+
+## Progress Log
+
+### Day 1: Understanding LLMs & Revisiting Fundamentals
+
+- Studied the **basics of Large Language Models (LLMs)**
+- Revised **Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM)** networks
+- Started reading:
+  - 📄 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+  - 📄 [Language Models Are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+
+### Day 2: Tokenization & Preprocessing
+
+- Implemented a **simple tokenizer** from scratch → [Tokenizer.ipynb](1_Tokenizer/Tokenizer.ipynb)
+- Added **special character tokens**
+- Implemented **Byte Pair Encoding (BPE)** using `tiktoken` → [Bytepairencoding.ipynb](1_Tokenizer/Bytepairencoding.ipynb)
+- Used sample text data → [verdictbook.txt](1_Tokenizer/verdictbook.txt)
