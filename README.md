@@ -17,7 +17,7 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Implemented a **simple tokenizer** from scratch & Added **special character tokens** → [Tokenizer.ipynb](1_Preprocessing/1_Tokenizer.ipynb)
 - Implemented **Byte Pair Encoding (BPE)** using `tiktoken` → [Bytepairencoding.ipynb](1_Preprocessing/2_Bytepairencoding.ipynb)
 
-## Day 3: Input-Target Pairs & Token Embedding
+### Day 3: Input-Target Pairs & Token Embedding
 
 - Implemented **Input-Target data pair generation** using `DataLoader` → [TargetPair.ipynb](1_Preprocessing/3_Input_Target_pair.ipynb)
 
@@ -26,3 +26,10 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Created a **token embedder** in Torch using `torch.nn.Embedding`→ [TokenEmbedding.ipynb](1_Preprocessing/4_tokenEmbedding.ipynb)
 
 - Implemented **positional token embedding** in Torch → [PositionalTokenEmbedding.ipynb](1_Preprocessing/5_positionTokenEmbedding.ipynb)
+
+### Day 4: Basics of Attention Mechanism
+
+- Read [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- Explored simplified self-causal multi-head attention, why RNN fails
+- History of RNN , LSTM , Transformer
+- Learned about Bahdanau attention
