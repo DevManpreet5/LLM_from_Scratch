@@ -30,6 +30,6 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 ### Day 4: Basics of Attention Mechanism
 
 - Read [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- Explored simplified self-causal multi-head attention, why RNN fails
+- Explored simplified , self ,causal , multi-head attention, why RNN fails
 - History of RNN , LSTM , Transformer
 - Learned about Bahdanau attention
