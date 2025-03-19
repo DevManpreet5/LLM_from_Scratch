@@ -33,3 +33,11 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Explored simplified , self ,causal , multi-head attention, why RNN fails
 - History of RNN , LSTM , Transformer
 - Learned about Bahdanau attention
+
+### Day 5: Attention Mechanism from Scratch
+
+- Implemented **simplified attention mechanism** with non-trainable weights from scratch  
+  → [SimplifiedAttention.ipynb](2_Attention_Mech/1_SimplifiedATT_noTrainableWeights.ipynb)
+
+- Implemented **self-attention mechanism** using key, query, and value matrices with trainable weights from scratch  
+  → [SelfAttention.ipynb](2_Attention_Mech/2_SelfAttention_Trainable.ipynb)
