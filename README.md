@@ -36,6 +36,8 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 
 ### Day 5: Attention Mechanism from Scratch
 
-- Implemented **simplified attention mechanism** with non-trainable weights from scratch → [SimplifiedAttention.ipynb](2_Attention_Mech/1_SimplifedATT_noTrainableweights.ipynb)
+- Implemented **simplified attention mechanism** with non-trainable weights from scratch → [SimplifiedAttention.ipynb](2_Attention_Mechanism/1_SimplifedATT_noTrainableweights.ipynb)
 
-- Implemented **self-attention mechanism** using key, query, and value matrices with trainable weights from scratch → [SelfAttention.ipynb](2_Attention_Mech/2_selfattention_trainable.ipynb)
+- Implemented **self-attention mechanism** using key, query, and value matrices with trainable weights from scratch → [SelfAttention.ipynb](2_Attention_Mechanism/2_selfattention_trainable.ipynb)
+
+- Implemented **casual-attention mechanism** with dropout from scratch → [CasualAttention.ipynb](2_Attention_Mechanism/3_casualattention.ipynb)
