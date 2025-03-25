@@ -47,3 +47,9 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Implemented **Multihead Attention Mechanism from Scratch** using simple Implementation → [Multihead.ipynb](2_Attention_Mechanism/4_mutiheadattention.ipynb)
 
 - Implemented **Multihead Attention Mechanism from Scratch** with weight split and one class( no wrapper class ) → [Multihead.ipynb](2_Attention_Mechanism/4_mutiheadattention.ipynb)
+
+### Day 7: GPT 2 architecture
+
+- Added **boilerplate Code** for gpt 2 architecture → [BoilerplateCode.ipynb](3_GPT/1_boilercode.ipynb)
+
+- Implemented **Layer Normalization class** for LLM → [LayerNorm.ipynb](3_GPT/2_layernorm.ipynb)
