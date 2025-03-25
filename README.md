@@ -45,3 +45,5 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 ### Day 6: Multihead Attention Mechanism from Scratch
 
 - Implemented **Multihead Attention Mechanism from Scratch** using simple Implementation→ [Multihead.ipynb](2_Attention_Mechanism/4_mutiheadattention.ipynb)
+
+- Implemented **Multihead Attention Mechanism from Scratch** with weight split and one class( no wrapper class ) [Multihead.ipynb](2_Attention_Mechanism/4_mutiheadattention.ipynb)
