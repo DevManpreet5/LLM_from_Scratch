@@ -53,3 +53,5 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Added **boilerplate Code** for gpt 2 architecture → [BoilerplateCode.ipynb](3_GPT/1_boilercode.ipynb)
 
 - Implemented **Layer Normalization class** for LLM → [LayerNorm.ipynb](3_GPT/2_layernorm.ipynb)
+
+- Implemented a **feed forward network with GELU activations** for LLM → [Gelu.ipynb](3_GPT/3_gelu.ipynb)
