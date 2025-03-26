@@ -57,3 +57,5 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Implemented a **feed forward network with GELU activations** for LLM → [Gelu.ipynb](3_GPT/3_gelu.ipynb)
 
 - Implemented **Shortcut /Skips connections** for LLM → [ShortCutconnection.ipynb](3_GPT/4_shortcutconnections.ipynb)
+
+- Implemented **Entire LLM Transformer Block** → [Transformer.ipynb](3_GPT/5_transformer.ipynb)
