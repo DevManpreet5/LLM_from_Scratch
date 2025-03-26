@@ -55,3 +55,5 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Implemented **Layer Normalization class** for LLM → [LayerNorm.ipynb](3_GPT/2_layernorm.ipynb)
 
 - Implemented a **feed forward network with GELU activations** for LLM → [Gelu.ipynb](3_GPT/3_gelu.ipynb)
+
+- Implemented **Shortcut /Skips connections** for LLM → [ShortCutconnection.ipynb](3_GPT/4_shortcutconnections.ipynb)
