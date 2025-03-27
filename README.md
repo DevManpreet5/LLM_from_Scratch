@@ -63,3 +63,5 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Coding the **124 million parameter GPT-2 model** → [GPT2.ipynb](3_GPT/6_gpt2_124M.ipynb)
 
 - Coding the GPT-2 to **predict the next token** → [nextwordprediction.ipynb](3_GPT/7_gpt2_generatenextword.ipynb)
+
+- Implemented **Cross entropy and perplexity loss** for LLM → [Loss.ipynb](3_GPT/7_gpt2_generatenextword.ipynb)
