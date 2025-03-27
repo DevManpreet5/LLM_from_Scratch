@@ -48,7 +48,7 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 
 - Implemented **Multihead Attention Mechanism from Scratch** with weight split and one class( no wrapper class ) → [Multihead.ipynb](2_Attention_Mechanism/4_mutiheadattention.ipynb)
 
-### Day 7,8: GPT 2 architecture
+### Day 7: GPT-2 Core Components
 
 - Added **boilerplate Code** for gpt 2 architecture → [BoilerplateCode.ipynb](3_GPT/1_boilercode.ipynb)
 
@@ -57,6 +57,8 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Implemented a **feed forward network with GELU activations** for LLM → [Gelu.ipynb](3_GPT/3_gelu.ipynb)
 
 - Implemented **Shortcut /Skips connections** for LLM → [ShortCutconnection.ipynb](3_GPT/4_shortcutconnections.ipynb)
+
+### Day 8: Transformer Block & Training
 
 - Implemented **Entire LLM Transformer Block** → [Transformer.ipynb](3_GPT/5_transformer.ipynb)
 
