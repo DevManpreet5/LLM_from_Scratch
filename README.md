@@ -56,7 +56,7 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 
 - Implemented a **feed forward network with GELU activations** for LLM → [Gelu.ipynb](3_GPT/3_gelu.ipynb)
 
-- Implemented **Shortcut /Skips connections** for LLM → [ShortCutconnection.ipynb](3_GPT/4_shortcutconnections.ipynb)
+- **Shortcut /Skips connections** for LLM → [ShortCutconnection.ipynb](3_GPT/4_shortcutconnections.ipynb)
 
 ### Day 8: Transformer Block & Training
 
@@ -73,3 +73,5 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - **Evaluating LLM performance on real dataset** → [GPT2_RealDataset.ipynb](3_GPT/8_gpt2ondataset.ipynb)
 
 - Coding the **Entire LLM Pre-training Loop** → [GPT2_entirePretraining.ipynb](3_GPT/8_gpt2ondataset.ipynb)
+
+- Implemented **Temperature Scaling** in LLM → [TemperatureScaling.ipynb](3_GPT/9_tempScaling.ipynb)
