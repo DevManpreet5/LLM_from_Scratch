@@ -67,3 +67,7 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Coding the GPT-2 to **predict the next token** → [nextwordprediction.ipynb](3_GPT/7_gpt2_generatenextword.ipynb)
 
 - Implemented **Cross entropy and perplexity loss** for LLM → [Loss.ipynb](3_GPT/7_gpt2_generatenextword.ipynb)
+
+### Day 9:
+
+- **Evaluating LLM performance on real dataset** → [GPT2_RealDataset.ipynb](3_GPT/8_gpt2ondataset.ipynb)
