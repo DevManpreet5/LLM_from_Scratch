@@ -75,3 +75,5 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Coding the **Entire LLM Pre-training Loop** → [GPT2_entirePretraining.ipynb](3_GPT/8_gpt2ondataset.ipynb)
 
 - Implemented **Temperature Scaling** in LLM → [TemperatureScaling.ipynb](3_GPT/9_tempScaling.ipynb)
+
+- Implemented **Top-k sampling** in LLM → [TOP-Ksampling.ipynb](3_GPT/10_topK.ipynb)
