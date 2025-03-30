@@ -77,3 +77,5 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Implemented **Temperature Scaling** in LLM → [TemperatureScaling.ipynb](3_GPT/9_tempScaling.ipynb)
 
 - Implemented **Top-k sampling** in LLM → [TOP-Ksampling.ipynb](3_GPT/10_topK.ipynb)
+
+- **Saving and loading LLM model weights** using PyTorch → [Save_Load_weights.ipynb](3_GPT/11_Save_load.ipynb)
