@@ -80,4 +80,6 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 
 - **Saving and loading LLM model weights** using PyTorch → [Save_Load_weights.ipynb](3_GPT/11_Save_load.ipynb)
 
-- Loading **pre-trained weights from OpenAI GPT-2** → [Loading_OPEN-AI_weights.ipynb](3_GPT/12_loadingOpenAI.ipynb)
+- Loading **pre-trained weights from OpenAI GPT-2 124M** → [Loading_OPEN-AI_weights.ipynb](3_GPT/12_loadingOpenAI.ipynb)
+
+- Training using **OpenAI GPT-2 774M weights** → [774M_weights.ipynb](3_GPT/13_OpenAI_774M.ipynb)
