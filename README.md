@@ -68,7 +68,7 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 
 - Implemented **Cross entropy and perplexity loss** for LLM → [Loss.ipynb](3_GPT/7_gpt2_generatenextword.ipynb)
 
-### Day 9:Evaluation, Sampling, and Weight Loading
+### Day 9: Evaluation and Sampling
 
 - **Evaluating LLM performance on real dataset** → [GPT2_RealDataset.ipynb](3_GPT/8_gpt2ondataset.ipynb)
 
@@ -77,6 +77,8 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - Implemented **Temperature Scaling** in LLM → [TemperatureScaling.ipynb](3_GPT/9_tempScaling.ipynb)
 
 - Implemented **Top-k sampling** in LLM → [TOP-Ksampling.ipynb](3_GPT/10_topK.ipynb)
+
+### Day 10: Weight Loading
 
 - **Saving and loading LLM model weights** using PyTorch → [Save_Load_weights.ipynb](3_GPT/11_Save_load.ipynb)
 
