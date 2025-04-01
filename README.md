@@ -78,7 +78,7 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 
 - Implemented **Top-k sampling** in LLM → [TOP-Ksampling.ipynb](3_GPT/10_topK.ipynb)
 
-### Day 10: Weight Loading and Classification Finetuning
+### Day 10: Weight Loading
 
 - **Saving and loading LLM model weights** using PyTorch → [Save_Load_weights.ipynb](3_GPT/11_Save_load.ipynb)
 
@@ -86,4 +86,8 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 
 - Training using **OpenAI GPT-2 774M weights** → [774M_weights.ipynb](3_GPT/13_OpenAI_774M.ipynb)
 
+### Day 11: Classification Fine-Tuning
+
 - **Classification Finetuned 124M Model on Spam classification dataset** → [SpamClassificationFinetuned.ipynb](4_FineTune/1_classificationFinetuning_spam/1_spam.ipynb)
+
+- **Classification Finetuned 124M Model on PubMed 20k dataset ** → [MedicalClassificationFinetuned.ipynb](4_FineTune/2_classificationFinetuning_medical/1_medical.ipynb)
