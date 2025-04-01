@@ -1,2 +1,3 @@
 gpt2/
 review_classifier.pth
+biofinetuned_partialEpoch1.pth
