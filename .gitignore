@@ -1,3 +1,6 @@
 gpt2/
-review_classifier.pth
-biofinetuned_partialEpoch1.pth
+4_FineTune/1_classificationFinetuning_spam/review_classifier.pth
+4_FineTune/2_classificationFinetuning_medical/biofinetuned_partialEpoch1.pth
+4_FineTune/2_classificationFinetuning_medical/train.csv
+4_FineTune/2_classificationFinetuning_medical/train_2.csv
+4_FineTune/2_classificationFinetuning_medical/test.csv
