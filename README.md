@@ -90,4 +90,4 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 
 - **Classification Finetuned 124M Model on Spam classification dataset** → [SpamClassificationFinetuned.ipynb](4_FineTune/1_classificationFinetuning_spam/1_spam.ipynb)
 
-- **Classification Finetuned 124M Model on PubMed 20k dataset ** → [MedicalClassificationFinetuned.ipynb](4_FineTune/2_classificationFinetuning_medical/1_medical.ipynb)
+- **Classification Finetuned 124M Model on PubMed 20k dataset** → [MedicalClassificationFinetuned.ipynb](4_FineTune/2_classificationFinetuning_medical/1_medical.ipynb)
