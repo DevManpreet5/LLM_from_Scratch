@@ -8,7 +8,7 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 
 - Studied the **basics of Large Language Models (LLMs)**
 - Revised **Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM)** networks
-- Started reading:
+- Started watching videos and reading basics of:
   - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
   - [Language Models Are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 
@@ -91,3 +91,7 @@ This repository documents my journey of building a **Large Language Model (LLM) 
 - **Classification Finetuned 124M Model on Spam classification dataset** → [SpamClassificationFinetuned.ipynb](4_FineTune/1_classificationFinetuning_spam/1_spam.ipynb)
 
 - **Classification Finetuned 124M Model on PubMed 20k dataset** → [MedicalClassificationFinetuned.ipynb](4_FineTune/2_classificationFinetuning_medical/1_medical.ipynb)
+
+### Day 12: Instruction Fine-Tuning
+
+- **Instruction Finetuned 124M Model on Alpaca-style prompt formatting** → [InstructionFinetuned.ipynb](4_FineTune/3_instructionFinetuning_basics/basic.ipynb)
