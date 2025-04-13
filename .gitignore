@@ -5,3 +5,4 @@ gpt2/
 4_FineTune/2_classificationFinetuning_medical/train_2.csv
 4_FineTune/2_classificationFinetuning_medical/test.csv
 6_hf/1_medical/biofinetuned_partialEpoch1.pth
+data
